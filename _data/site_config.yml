@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Kenya
+  adjective: Kenyan
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -39,6 +39,14 @@ create_pages:
     folder: /reporting-status
     layout: reportingstatus
     title: status.reporting_status
+  - filename: ''
+    folder: /Editorials
+    layout: Editorials
+    title: Editorials.Editorials
+  - filename: ''
+    folder: /Maps
+    layout: Maps
+    title: Maps.Maps
   - filename: ''
     folder: /search
     layout: search
