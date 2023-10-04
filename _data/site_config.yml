@@ -40,14 +40,6 @@ create_pages:
     layout: reportingstatus
     title: status.reporting_status
   - filename: ''
-    folder: /Editorials
-    layout: Editorials
-    title: Editorials.Editorials
-  - filename: ''
-    folder: /Maps
-    layout: Maps
-    title: Maps.Maps
-  - filename: ''
     folder: /search
     layout: search
     title: search.search
@@ -151,7 +143,6 @@ indicator_tabs:
   tab_4: ''
 languages:
   - en
-  - es
 languages_public: []
 logos: []
 map_layers: []
@@ -193,6 +184,9 @@ menu:
     dropdown: []
   - path: /reporting-status
     translation_key: menu.reporting_status
+    dropdown: []
+  - path: /editorials
+    translation_key: menu.editorials
     dropdown: []
   - path: /news
     translation_key: menu.updates
