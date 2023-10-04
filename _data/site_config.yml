@@ -185,7 +185,7 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
-  - path: /editorials
+  - path: /editorials/
     translation_key: menu.editorials
     dropdown: []
   - path: /news
