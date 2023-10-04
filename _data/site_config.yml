@@ -79,18 +79,9 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Download Metadata
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Click here to download metadata.
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
